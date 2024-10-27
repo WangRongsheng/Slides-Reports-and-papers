@@ -5,3 +5,5 @@
 > 所有大文件（超过50MB）均上传至[Releases](https://github.com/WangRongsheng/Slides-Reports-and-papers/releases)
 
 - clash汉化：https://github.com/Z-Siqi/Clash-for-Windows_Chinese
+- https://github.com/zhaoweih/Clash-Copy
+- https://github.com/mzz2017/gg/blob/main/README_zh.md
